@@ -1,5 +1,8 @@
 var searchData=
 [
-  ['generic_2deasyc_2dsoldered_2ecpp_0',['Generic-easyC-SOLDERED.cpp',['../_generic-easy_c-_s_o_l_d_e_r_e_d_8cpp.html',1,'']]],
-  ['generic_2deasyc_2dsoldered_2eh_1',['Generic-easyC-SOLDERED.h',['../_generic-easy_c-_s_o_l_d_e_r_e_d_8h.html',1,'']]]
+  ['getalerttype_0',['getAlertType',['../class_t_m_p117.html#a01c322e7821cd80f0928aeb2d018b9de',1,'TMP117']]],
+  ['getdeviceid_1',['getDeviceID',['../class_t_m_p117.html#a5cb5f8a58955495eaeec029bc7d79b80',1,'TMP117']]],
+  ['getdevicerev_2',['getDeviceRev',['../class_t_m_p117.html#a558704e6e7e747d696e948dbccaa71a9',1,'TMP117']]],
+  ['getoffsettemperature_3',['getOffsetTemperature',['../class_t_m_p117.html#ababc623a3cf60cbc2e63e46cbad878be',1,'TMP117']]],
+  ['gettemperature_4',['getTemperature',['../class_t_m_p117.html#ad6fb1daa3ca36c0e7205383d6ddda788',1,'TMP117']]]
 ];

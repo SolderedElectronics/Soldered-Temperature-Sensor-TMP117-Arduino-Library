@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['readdata_0',['readData',['../class_easy_c.html#a9a3d39be50b348768bc4b5dea3dae01a',1,'EasyC']]],
-  ['readme_2emd_1',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]],
-  ['readregister_2',['readRegister',['../class_easy_c.html#a45bd6c915c1fa0998e273f69ee2d2376',1,'EasyC']]],
+  ['readconfig_0',['readConfig',['../class_t_m_p117.html#a361bb31789448e812b2ead4ac72a9d29',1,'TMP117']]],
+  ['readeeprom_1',['readEEPROM',['../class_t_m_p117.html#aabf74fe6ad5ab18a65e0fe720d5dcef3',1,'TMP117']]],
+  ['readme_2emd_2',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]],
   ['repository_20contents_3',['Repository Contents',['../index.html#autotoc_md1',1,'']]]
 ];

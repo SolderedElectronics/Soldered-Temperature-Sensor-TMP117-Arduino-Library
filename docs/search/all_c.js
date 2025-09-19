@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['pin_0',['pin',['../class_sensor.html#a0efecf34431610766469857f25e113da',1,'Sensor']]],
-  ['proizvoda_20arduino_20library_1',['NAZIV PROIZVODA Arduino library',['../index.html',1,'']]]
+  ['printconfig_0',['printConfig',['../class_t_m_p117.html#a0028a7b02173f7fb4c465a2ff3b241e8',1,'TMP117']]]
 ];
