@@ -45,7 +45,7 @@ At Soldered, we design and manufacture a wide selection of electronic products t
 ### Original source
 
 ​
-This library is possible thanks to original [arduino-mcp23017](https://github.com/blemasle/arduino-mcp23017) library. Thank you, blemasle.
+This library is possible thanks to original [TMP117-Arduino](https://github.com/NilsMinor/TMP117-Arduino) library. Thank you, NilsMinor.
 
 ### Open-source license
 
