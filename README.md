@@ -3,9 +3,9 @@
 [![Make docs and publish to GitHub Pages](https://github.com/SolderedElectronics/Soldered-Temperature-Sensor-TMP117-Arduino-Library/actions/workflows/make_docs.yml/badge.svg?branch=dev)](https://github.com/SolderedElectronics/Soldered-Temperature-Sensor-TMP117-Arduino-Library/actions/workflows/make_docs.yml)
 [![Arduino Library Manager Compatibility](https://github.com/SolderedElectronics/Soldered-Temperature-Sensor-TMP117-Arduino-Library/actions/workflows/arduino_lint.yml/badge.svg?branch=dev)](https://github.com/SolderedElectronics/Soldered-Temperature-Sensor-TMP117-Arduino-Library/actions/workflows/arduino_lint.yml)
 
-| ![Soldered Temperature Sensor TMP117 Breakout](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
+| ![Soldered Temperature Sensor TMP117 Breakout](https://soldered.com/cdn/shop/files/333175_featured-photo_04c294_c1fdd92d-4591-4127-97d7-7d64fb97efeb.png) |
 | :------------------------------------------------------------------------------------: |
-|                      [Soldered Temperature Sensor TMP117 Breakout](https://www.solde.red/SKU)                      |
+|                      [Soldered Temperature Sensor TMP117 Breakout](https://www.solde.red/333175)                      |
 
 The TMP117 is a high-precision digital temperature sensor developed by Texas Instruments (TI). It is designed for applications that demand accurate, stable, and low-power temperature measurements. It supports factory calibration and includes registers for user-defined temperature offsets to improve system-level accuracy.
 
